@@ -6,7 +6,7 @@ let navbar = document.querySelector('.navbar');
 
 menu.onclik = () =>{
 
-    menu.classList.toggle('fa-times');
+    menu.classList.toggle('fa fa-times');
     navbar.classList.toggle('active');
 }
 
