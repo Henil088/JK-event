@@ -12,7 +12,7 @@ menu.onclik = () =>{
 
 window.scroll = () =>{
 
-    menu.classList.remove('fa-times');
+    menu.classList.remove('fa fa-times');
     navbar.classList.remove('active');
 }
 
